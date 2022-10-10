@@ -1,6 +1,6 @@
 # neovim-dotfiles
 
-### My personal neovim configuration
+My personal neovim configuration
 
 ## Prerequisites
 
